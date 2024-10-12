@@ -1,1 +1,1 @@
-# QuickConnect
+# VidChat
